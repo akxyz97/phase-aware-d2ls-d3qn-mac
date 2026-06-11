@@ -1,0 +1,2 @@
+seed,max_iter,agent_throughput,tdma_throughput,aloha_throughput,total_throughput,estimated_collisions,estimated_energy_per_bit,runtime_seconds,transmit_count
+42,10000,0.0055,0.1958,0.551,0.7523,160,1.9545454545454546,41.10867476463318,215
